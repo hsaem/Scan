@@ -1,0 +1,13 @@
+D:\Program\WIN\Win\Win\bin\Debug\Win.exe.config
+D:\Program\WIN\Win\Win\bin\Debug\Win.exe
+D:\Program\WIN\Win\Win\bin\Debug\Win.pdb
+D:\Program\WIN\Win\Win\obj\Debug\Win.Properties.Resources.resources
+D:\Program\WIN\Win\Win\obj\Debug\Win.csproj.GenerateResource.cache
+D:\Program\WIN\Win\Win\obj\Debug\Win.csproj.CoreCompileInputs.cache
+D:\Program\WIN\Win\Win\obj\Debug\Win.csproj.CopyComplete
+D:\Program\WIN\Win\Win\obj\Debug\Win.exe
+D:\Program\WIN\Win\Win\obj\Debug\Win.pdb
+D:\Program\WIN\Win\Win\obj\Debug\Win.exe.licenses
+D:\Program\WIN\Win\Win\bin\Debug\asprise-scan-scanner-twain-wia-api.dll
+D:\Program\WIN\Win\Win\bin\Debug\QueryBuilder.dll
+D:\Program\WIN\Win\Win\obj\Debug\Win.FrmScanner.resources
